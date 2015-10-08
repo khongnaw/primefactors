@@ -7,7 +7,7 @@ tests:
 ![screenshot](https://raw.githubusercontent.com/khongnaw/primefactors/master/doc/wod-prime-factors-specrunner.png)
 
 # Usage 
-Simply download the file and invoke the ProjectEulerThree() function. See the test code for detail.
+Simply download the file and invoke the primeFactors() function. See primefactors.js for detail.
 
 Here is an example call to the function:
 ```
@@ -16,6 +16,6 @@ console.log("The answer should be 6857: output = " + primeFactors(600851475143))
 </script>
 ```
 # Credit
-[Jasmine](http://jasmine.github.io/)
+[Jasmine](http://jasmine.github.io/) and
 [Underscore](http://underscorejs.org/)
 
